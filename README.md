@@ -28,7 +28,7 @@ Skeleton for a selenium UI test framework with TestNG
 			mvn clean test
 			```
 
-#Errors & Trobleshooting
+## Errors & Trobleshooting
 
 * **Class file has wrong version 52.0, should be 50.0**
 	* If you get this error update the JAVA_HOME in your environment variable with the Java version mentioned in the Prerequisites
